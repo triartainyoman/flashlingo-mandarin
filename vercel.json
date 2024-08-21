@@ -1,0 +1,44 @@
+{
+  "routes": [
+    {
+      "src": "/",
+      "dest": "/"
+    },
+    {
+      "src": "/signin",
+      "dest": "/signin"
+    },
+    {
+      "src": "/signup",
+      "dest": "/signup"
+    },
+    {
+      "src": "/overview",
+      "dest": "/overview"
+    },
+    {
+      "src": "/create-deck",
+      "dest": "/create-deck"
+    },
+    {
+      "src": "/create-flashcards",
+      "dest": "/create-flashcards"
+    },
+    {
+      "src": "/deck-detail",
+      "dest": "/deck-detail"
+    },
+    {
+      "src": "/add-flashcard",
+      "dest": "/add-flashcard"
+    },
+    {
+      "src": "/practice",
+      "dest": "/practice"
+    },
+    {
+      "src": "/success",
+      "dest": "/success"
+    }
+  ]
+}
